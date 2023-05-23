@@ -3,7 +3,6 @@
     "clockrow",
     "comaze",
     "fontawesome",
-    "fortawesome",
     "kaii",
     "komei",
     "koyan",
@@ -18,5 +17,6 @@
     "venv",
     "vuetify"
   ],
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "ansible.python.interpreterPath": "/home/linuxbrew/.linuxbrew/bin/python3"
 }
