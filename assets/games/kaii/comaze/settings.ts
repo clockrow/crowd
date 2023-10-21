@@ -40,7 +40,7 @@ export const comazeInfo: GameInfo = {
         min: 0,
         sec: 0,
     },
-    url: "https://comaze.vercel.app",
+    url: "https://clockrow.github.io/comaze/",
     topUrl: "/kaii",
     rankingUrl: "",
     hashtag: "コメイズ"

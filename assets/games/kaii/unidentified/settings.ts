@@ -39,7 +39,7 @@ export const unidentifiedInfo: GameInfo = {
         min: 0,
         sec: 0,
     },
-    url: "https://unidentified.vercel.app",
+    url: "https://clockrow.github.io/unidentified/",
     topUrl: "/kaii",
     rankingUrl: "",
     hashtag: "正体不明謎"
