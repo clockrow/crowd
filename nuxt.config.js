@@ -28,7 +28,7 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://clockrow.vercel.app',
+        content: 'https://clockrow.github.io/crowd/',
       },
       {
         hid: 'og:title',
@@ -43,7 +43,7 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://clockrow.vercel.app/twitter_card.png',
+        content: 'https://clockrow.github.io/crowd/twitter_card.png',
       },
       { name: 'twitter:card', content: 'summary' },
       { name: 'twitter:site', content: '@C_lock_row' },
