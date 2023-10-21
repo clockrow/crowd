@@ -54,16 +54,16 @@ export default {
       {
         rel: 'icon',
         sizes: '16x16',
-        href: '/favicon.png',
+        href: './favicon.png',
       },
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: '/favicon.png',
+        href: './favicon.png',
       },
       {
         rel: 'apple-touch-icon',
-        href: '/favicon.png',
+        href: './favicon.png',
       },
     ],
     script: [
